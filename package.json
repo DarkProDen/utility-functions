@@ -6,6 +6,8 @@
     "build:cjs": "tsc --module commonjs --outDir build/cjs"
   },
   "devDependencies": {
+    "@types/node": "^22.10.7",
+    "@types/react": "^18.3.3",
     "typescript": "^5.7.3"
   },
   "peerDependencies": {
