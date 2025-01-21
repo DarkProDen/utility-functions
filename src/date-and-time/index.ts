@@ -1,4 +1,4 @@
 export { convertDateToTimeString } from './convertDateToTimeString';
-export { dateToDBFormat } from './dateToDBFormat';
-export { getDateWithZeroTimeFromDBFormat } from './getDateWithZeroTimeFromDBFormat';
+export { convertDateToDBString } from './convertDateToDBString';
+export { getDateWithZeroTimeFromDBString } from './getDateWithZeroTimeFromDBString';
 export { parseStrToDate } from './parseStrToDate';
